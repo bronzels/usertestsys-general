@@ -1,0 +1,55 @@
+2021/02/20 10:51:22 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2021/02/20 10:52:03 [error] 21#21: *1 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 10:52:04 [error] 21#21: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 10.15.81.180, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.85:21080", referrer: "http://192.168.0.85:21080/"
+2021/02/20 10:52:11 [error] 21#21: *1 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 10:54:22 [error] 22#22: *4 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 10:54:44 [error] 22#22: *4 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:01:15 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:01:16 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:01:17 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:01:18 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:01:18 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:01:19 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:02:05 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:02:05 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:02:06 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:02:06 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:02:06 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:03:59 [error] 21#21: *4 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:04:00 [error] 21#21: *4 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:04:00 [error] 21#21: *4 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:04:00 [error] 21#21: *4 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:06:15 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:06:16 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:06:16 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:06:17 [error] 21#21: *2 directory index of "/usr/share/nginx/html/" is forbidden, client: 10.15.81.180, server: localhost, request: "GET / HTTP/1.1", host: "192.168.0.85:21080"
+2021/02/20 11:12:56 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:12:57 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:12:58 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:12:59 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:13:00 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:13:02 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:13:06 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:13:13 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:13:26 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:13:52 [emerg] 1#1: open() "/usr/local/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:18
+2021/02/20 11:19:08 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/02/20 11:24:35 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/02/20 11:26:14 [error] 23#23: *14 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 10.15.81.180, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.85:21080", referrer: "http://192.168.0.85:21080/L5_20.mp3"
+2021/02/20 11:26:33 [error] 23#23: *16 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 10.15.81.180, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.85:21080", referrer: "http://192.168.0.85:21080/L5_20.mp3"
+2021/02/20 11:26:43 [error] 23#23: *17 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 10.15.81.180, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.85:21080", referrer: "http://192.168.0.85:21080/L5_20.mp3"
+2021/02/20 11:26:53 [error] 23#23: *18 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 10.15.81.180, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.85:21080", referrer: "http://192.168.0.85:21080/L5_20.mp3"
+2021/02/20 11:32:35 [error] 23#23: *26 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 10.15.81.180, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.85:21080", referrer: "http://192.168.0.85:21080/audiostatic/L5_20.mp3"
+2021/02/20 11:49:05 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/02/20 11:50:29 [error] 23#23: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2021/02/20 11:50:40 [error] 23#23: *5 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/picgen/L5_20.mp3"
+2021/03/02 18:34:33 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/03/03 09:36:37 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/03/06 11:05:47 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/03/06 11:28:59 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/04/20 17:09:11 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/05/21 13:03:39 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/05/21 17:21:34 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/05/21 20:35:12 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/05/25 10:57:27 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45
+2021/05/25 11:12:18 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/nginx.conf:45

@@ -1,0 +1,8 @@
+target/
+*.iml
+*.sqlite3
+.idea/
+venv/
+__pycache__/
+orm_env
+*.bak
